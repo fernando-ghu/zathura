@@ -1,0 +1,14 @@
+# colors
+# colors when recolor is false
+set default-bg  "#140807"
+set default-fg  "#5c6cba"
+
+# functions as the background color
+set recolor-lightcolor    "#140807"
+# functions as the text color
+set recolor-darkcolor     "#5c6cba"
+
+# recolors are active when set to true
+# and when a document has been opened 
+set recolor true 
+
